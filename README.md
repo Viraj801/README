@@ -1,4 +1,4 @@
-![logo](https://github.com/Viraj801/Github-Banner/blob/main/banner%20Saurabh.png)
+![logo](https://github.com/Viraj801/Logo_profile/blob/main/Viraj_Logo.jpg)
 <h1 align="center">Hi 👋 , I'm VIRAJ SINGH DANGI</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
